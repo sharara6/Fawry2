@@ -8,6 +8,9 @@ A simple Java console application simulating an online bookstore with support fo
 - Inventory management
 - Simulated delivery via mail or shipping
 
+<img src="https://github.com/sharara6/Fawry2/blob/master/screenshot.jpg" align="center" height="350" width="600"/>
+
+
 ## How to Run
 
 1. Compile all Java files:
@@ -20,3 +23,4 @@ A simple Java console application simulating an online bookstore with support fo
    ```
 
 No external dependencies required.
+
